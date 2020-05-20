@@ -1,4 +1,12 @@
-# test-vue
+# Bais-District-Hospital-PatientInfo-Sys - Nicolas Clinic
+
+```
+https://slaytherin1.github.io/ - Live demo
+[](https://slaytherin1.github.io/)
+```
+![screenshot](screenshots/1.PNG)
+![screenshot](screenshots/2.PNG)
+![screenshot](screenshots/3.PNG)
 
 ## Project setup
 ```
